@@ -170,24 +170,20 @@ General security advice
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.jpg)
-
-## Quick Scan
-
-![Quick Scan](screenshots/quick-scan.jpg)
+![Dashboard](screenshots/Dashboard.jpg)
 
 ## Deep Scan
 
-![Deep Scan](screenshots/deep-scan.jpg)
+![Deep Scan](screenshots/Deepscan.jpg)
 
 ## Device Health
 
-![Device Health](screenshots/device-health.jpg)
+![Device Health](screenshots/Device_health_check.jpg)
 
 ## Scam Checker
 
-![Scam Checker](screenshots/scam-checker.jpg)
+![Scam Checker](screenshots/Scam_Phishing.jpg)
 
 ## Report
 
-![Report](screenshots/report.jpg)
+![Report](screenshots/Report.jpg)
