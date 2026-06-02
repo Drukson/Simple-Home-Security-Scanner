@@ -162,6 +162,28 @@ After scanning, click Open HTML Report.
 The report includes:
 
 Home security score
+
+
+## Dashboard
+
+![Dashboard](screenshots/Deep
+-Scan.jpg)
+
+## Quick Scan
+
+![Quick Scan](screenshots/quick-scan.png)
+
+## Deep Scan
+
+![Deep Scan](screenshots/deep-scan.png)
+
+## Device Health
+
+![Device Health](screenshots/device-health.png)
+
+## Scam Checker
+
+![Scam Checker](screenshots/scam-checker.png)
 Devices found
 Open ports
 Risk level
