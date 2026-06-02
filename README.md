@@ -166,7 +166,7 @@ Home security score
 
 ## Dashboard
 
-![Dashboard](screenshots/Dashboard.jpg)
+![Dashboard](screenshots/dashboard.jpg)
 
 ## Quick Scan
 
