@@ -65,7 +65,9 @@ Only scan networks you own or have explicit permission to test.
 git clone https://github.com/your-username/home-cyber-guard.git
 cd home-cyber-guard
 
+Then install with:
 
+CMD: pip install -r requirements.txt
 
 
 2. Create a virtual environment
